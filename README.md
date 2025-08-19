@@ -60,30 +60,30 @@ This project demonstrates how linked lists can model stations, allowing navigati
 
 ### ===== Linear Route Example =====
 #### ➡️ Forward Navigation:
-- 🚉 Station A
-- 🚉 Station B
-- 🚉 Station C
-- 🚉 Station D
-⬅️ Backward Navigation:
- 🚉 Station D
- 🚉 Station C
- 🚉 Station B
- 🚉 Station A
+###### 🚉 Station A
+###### 🚉 Station B
+###### 🚉 Station C
+###### 🚉 Station D
+#### ⬅️ Backward Navigation:
+###### 🚉 Station D
+###### 🚉 Station C
+###### 🚉 Station B
+###### 🚉 Station A
 
-===== Circular Route Example =====
-➡️ Forward Navigation:
-🚉 Metro 1
-🚉 Metro 2
-🚉 Metro 3
-🚉 Metro 4
-🚉 Metro 1
-🚉 Metro 2
-⬅️ Backward Navigation:
-🚉 Metro 4
-🚉 Metro 3
-🚉 Metro 2
-🚉 Metro 1
-🚉 Metro 4
-🚉 Metro 3
+### ===== Circular Route Example =====
+#### ➡️ Forward Navigation:
+###### 🚉 Metro 1
+###### 🚉 Metro 2
+###### 🚉 Metro 3
+###### 🚉 Metro 4
+###### 🚉 Metro 1
+###### 🚉 Metro 2
+#### ⬅️ Backward Navigation:
+###### 🚉 Metro 4
+###### 🚉 Metro 3
+###### 🚉 Metro 2
+###### 🚉 Metro 1
+###### 🚉 Metro 4
+###### 🚉 Metro 3
 
 ---
